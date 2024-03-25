@@ -18,6 +18,7 @@ Before setting up the project, ensure you have the following prerequisites insta
 
 To clone the Repository:
 ------------------------
+Use the command - git clone https://github.com/dedeepyasreechilukoti/Food-Recipe-Finder-Application.git
 
 
 Create a New React Native Project:
