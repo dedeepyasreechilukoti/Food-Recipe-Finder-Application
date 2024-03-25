@@ -17,7 +17,10 @@ Before setting up the project, ensure you have the following prerequisites insta
 4) Expo go: Install the mobile application to develop this mobile application project to make it an user friendly application.
 
 ## Project Setup
-To clone the Repository:
+To clone the Repository using below;
+https://github.com/dedeepyasreechilukoti/Food-Recipe-Finder-Application.git
+
+Use the provided command to clone it locally for development purpose- git clone https://github.com/dedeepyasreechilukoti/Food-Recipe-Finder-Application.git
 
 
 Create a New React Native Project:
@@ -98,8 +101,10 @@ The Food Recipe Application is built using the following technologies:
 ## setup nand Installations:
 
 => To set up the Food Recipe Application locally;
-Clone the project repository from GitHub.
+Clone the project repository using below;
+https://github.com/dedeepyasreechilukoti/Food-Recipe-Finder-Application.git
 
+Use the provided command to clone it locally for development purpose- git clone https://github.com/dedeepyasreechilukoti/Food-Recipe-Finder-Application.git
 
 1) Navigate to the project directory in your terminal.
 2) cd food_recipe_web
